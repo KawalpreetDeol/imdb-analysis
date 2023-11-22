@@ -27,6 +27,6 @@ https://github.com/sundeepblue/movie_rating_prediction/blob/master/movie_metadat
 https://www.youtube.com/live/dTVMR7yrGAI?si=KDg50kgK-MGfVClK
 
 ### Logo Image Citation
-`File:IMDB Logo 2016.svg. Wikipedia`
+`File:IMDB Logo 2016.svg. Wikipedia.`
 
 https://en.wikipedia.org/wiki/File:IMDB_Logo_2016.svg
